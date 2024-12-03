@@ -20,7 +20,7 @@ and machine learning model training.
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone github.com/prabhmeharbedi/stock-prediction
    ```
 2. Navigate to the project directory:
    ```bash
